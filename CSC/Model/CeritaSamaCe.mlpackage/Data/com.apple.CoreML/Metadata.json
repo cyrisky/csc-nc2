@@ -1,0 +1,12 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "--",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.version" : "13.0.0",
+    "com.apple.createml.app.tag" : "99.4",
+    "com.apple.coreml.model.preview.type" : "textClassifier",
+    "com.apple.createml.app.version" : "4.0"
+  },
+  "MLModelAuthorKey" : "Cris",
+  "MLModelLicenseKey" : "--"
+}

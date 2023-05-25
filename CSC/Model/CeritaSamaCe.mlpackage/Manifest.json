@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "56182BB3-9DDD-4BA6-BDBE-059939EECC25": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "CeritaSamaCe.mlmodel",
+            "path": "com.apple.CoreML/CeritaSamaCe.mlmodel"
+        },
+        "61C96E5F-19B3-4BD0-AF64-1BB17B58C19D": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "BB91CBBA-80AB-4E81-A710-9881628894E8": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        }
+    },
+    "rootModelIdentifier": "56182BB3-9DDD-4BA6-BDBE-059939EECC25"
+}
